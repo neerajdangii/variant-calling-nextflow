@@ -1,0 +1,18 @@
+# Nextflow / Bioinformatics temp & output files
+.nextflow/
+work/
+.nextflow.log*
+*.fa
+*.fai
+*.dict
+*.bam
+*.sam
+*.vcf
+*.idx
+*.gz
+*.zip
+*.log
+*.tmp
+*.html
+*.pdf
+results/
